@@ -75,7 +75,7 @@ export default function Hero() {
           className="inline-flex items-center gap-3 border border-line rounded-full pl-1.5 pr-5 py-1.5 mb-10 bg-surface/60"
         >
           <img
-            src="/avatar.jpeg"
+            src="/avatar.jpg"
             alt="michael"
             width="36"
             height="36"
