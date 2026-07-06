@@ -9,40 +9,40 @@ export const socials = [
 
 export const projects = [
   {
-    href: "https://estifham.vercel.app/",
-    imageSrc: "/wlogo.svg",
-    title: "Estifham",
-    kind: "Trivia Platform",
+    href: "https://omnicode.solutions/",
+    imageSrc: "/Omnicode Solutions.svg",
+    title: "omnicode",
+    kind: "business service website",
     description:
-      "An interactive trivia platform with 200+ questions across 20 categories. Built for speed, designed for fun.",
-    tags: ["React", "Tailwind", "Vercel"],
+      "The website is designed as a company profile / service portfolio, where Omnicode Solutions promotes its ability to build and deliver software products for clients.",
+    tags: ['Ruby on Rails', 'React', 'Node.js', 'Django', 'GraphQL', 'PostgreSQL'],
   },
   {
-    href: "https://www.stockivia.com",
-    imageSrc: "/STOCKIVIA.png",
-    title: "Stockivia",
-    kind: "SaaS · Inventory",
+    href: "https://brilliant.org/",
+    imageSrc: "/brilliant.png",
+    title: "brilliant",
+    kind: "STEM learning platform",
     description:
-      "Inventory and sales management for real businesses. Stock, invoices, and analytics in one clean dashboard.",
-    tags: ["React", "Node.js", "PostgreSQL"],
+      "Brilliant.org is an interactive website for learning math, science, and coding through problem-solving.",
+    tags: ["Next.js", "Tailwind CSS", "Node.js", "PostgreSQL"],
   },
   {
-    href: "https://www.instagram.com/digital.bitwave",
-    imageSrc: "/dbitwave.png",
-    title: "Digital Bitwave",
-    kind: "Digital Agency",
+    href: "https://www.atelierslc.com/",
+    imageSrc: "/Atelier.webp",
+    title: "Atelier",
+    kind: "Small e-commerce",
     description:
-      "A digital firm delivering website development, marketing, and design services that grow real brands.",
-    tags: ["Branding", "Web", "Marketing"],
+      "Atelier SLC is a small online shop selling curated home décor and lifestyle products.",
+    tags: ["Shopify", "HTML / CSS / JavaScript"],
   },
   {
-    href: "https://www.intelculator.com",
-    imageSrc: "/intelculator.png",
-    title: "Intelculator",
-    kind: "Web App · IQ Testing",
+    href: "https://www.dawninternet.com/",
+    imageSrc: "/DAWN Internet.svg",
+    title: "DAWN Internet",
+    kind: "Web3 decentralized internet",
     description:
-      "An IQ calculator delivering accurate results through interactive intelligence tests and instant scoring.",
-    tags: ["React", "Analytics", "UX"],
+      "DAWN Internet is a Web3 project for sharing internet bandwidth through a decentralized network.",
+    tags: ["Rust", "TypeScript", "React", "GraphQL", "Shopify Hydrogen", "PostgreSQL"],
   },
 ];
 
